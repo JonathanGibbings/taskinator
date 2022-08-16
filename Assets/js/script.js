@@ -1,6 +1,5 @@
 var taskIdCounter = 0;
 var tasks = [];
-
 var formEl = document.querySelector("#task-form");
 var tasksToDoEl = document.querySelector("#tasks-to-do");
 var tasksInProgressEl = document.querySelector("#tasks-in-progress");
