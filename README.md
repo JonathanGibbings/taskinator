@@ -1,4 +1,4 @@
-# taskinator
+# Taskinator
 
 ## Description
 
